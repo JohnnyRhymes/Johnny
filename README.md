@@ -1,4 +1,4 @@
-👋 Hi there, I'm [Your Name]!
+👋 Hi there, I'm Johnny!
 
 🎓 Bachelor's in Mathematics | 📚 Pursuing Master's in Data Science and AI
 
